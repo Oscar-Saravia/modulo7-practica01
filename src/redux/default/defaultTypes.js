@@ -1,0 +1,3 @@
+export const SET_FILTER_TEXT = 'SET_FILTER_TEXT';
+export const SET_IN_STOCK_ONLY = 'SET_IN_STOCK_ONLY';
+export const SET_PRODUCTS = 'SET_PRODUCTS';
